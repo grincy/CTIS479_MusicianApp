@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MVC",
+    "\\MVC\\bin",
+    "\\MVC\\bin\\Debug",
+    "\\MVC\\bin\\Debug\\net8.0",
+    "\\MVC\\bin\\Release",
+    "\\MVC\\bin\\Release\\net8.0",
+    "\\MVC\\Controllers",
+    "\\MVC\\Models",
+    "\\MVC\\obj",
+    "\\MVC\\Views"
+  ],
+  "SelectedNode": "\\MVC\\Models\\ErrorViewModel.cs",
+  "PreviewInSolutionExplorer": false
+}
