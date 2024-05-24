@@ -1,0 +1,16 @@
+C:\Users\onur\Desktop\MusicPlatform\Businness\bin\Debug\net8.0\Businness.deps.json
+C:\Users\onur\Desktop\MusicPlatform\Businness\bin\Debug\net8.0\Businness.dll
+C:\Users\onur\Desktop\MusicPlatform\Businness\bin\Debug\net8.0\Businness.pdb
+C:\Users\onur\Desktop\MusicPlatform\Businness\bin\Debug\net8.0\DataAccess.dll
+C:\Users\onur\Desktop\MusicPlatform\Businness\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\onur\Desktop\MusicPlatform\Businness\obj\Debug\net8.0\Businness.csproj.AssemblyReference.cache
+C:\Users\onur\Desktop\MusicPlatform\Businness\obj\Debug\net8.0\Businness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onur\Desktop\MusicPlatform\Businness\obj\Debug\net8.0\Businness.AssemblyInfoInputs.cache
+C:\Users\onur\Desktop\MusicPlatform\Businness\obj\Debug\net8.0\Businness.AssemblyInfo.cs
+C:\Users\onur\Desktop\MusicPlatform\Businness\obj\Debug\net8.0\Businness.csproj.CoreCompileInputs.cache
+C:\Users\onur\Desktop\MusicPlatform\Businness\obj\Debug\net8.0\Businness.sourcelink.json
+C:\Users\onur\Desktop\MusicPlatform\Businness\obj\Debug\net8.0\Businness.csproj.Up2Date
+C:\Users\onur\Desktop\MusicPlatform\Businness\obj\Debug\net8.0\Businness.dll
+C:\Users\onur\Desktop\MusicPlatform\Businness\obj\Debug\net8.0\refint\Businness.dll
+C:\Users\onur\Desktop\MusicPlatform\Businness\obj\Debug\net8.0\Businness.pdb
+C:\Users\onur\Desktop\MusicPlatform\Businness\obj\Debug\net8.0\ref\Businness.dll

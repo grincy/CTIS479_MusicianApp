@@ -1,0 +1,64 @@
+﻿@model MusicianModel
+@*Generated from Custom Template.*@
+@*Model namespace using directive should be added to _ViewImports.cshtml.*@
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <h4>Musician</h4>
+    <hr />
+        <dl class="row">
+            <dt class="col-2">
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd class="col-10">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-2">
+                @Html.DisplayNameFor(model => model.Surname)
+            </dt>
+            <dd class="col-10">
+                @Html.DisplayFor(model => model.Surname)
+            </dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-2">
+                @Html.DisplayNameFor(model => model.IsRetired)
+            </dt>
+            <dd class="col-10">
+                @Html.DisplayFor(model => model.IsRetired)
+            </dd>
+        </dl>
+    <dl class="row">
+        <dt class="col-2">
+            @Html.DisplayNameFor(model => model.MusicianCountOutput)
+        </dt>
+        <dd class="col-10">
+            @Html.DisplayFor(model => model.MusicianCountOutput)
+        </dd>
+    </dl>
+    @if (Model.MusicianCountOutput > 0)
+    {
+        <dl class="row">
+            <dt class="col-2">
+                @Html.DisplayNameFor(model => model.MusicNamesOutput)
+            </dt>
+            <dd class="col-10">
+                @Html.Raw(Model.MusicNamesOutput)
+            </dd>
+        </dl>
+    }
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a>&nbsp;|&nbsp;
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+

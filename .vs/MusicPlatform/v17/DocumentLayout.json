@@ -3,32 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\onur\\Desktop\\MusicPlatform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|c:\\users\\onur\\desktop\\musicplatform\\mvc\\views\\musics\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\musics\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|c:\\users\\onur\\desktop\\musicplatform\\mvc\\controllers\\musicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\musicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\DataAccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\DataAccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|c:\\users\\onur\\desktop\\musicplatform\\mvc\\views\\musics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\musics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\Entities\\Musician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Entities\\Musician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EBB3BB7-24E4-406F-8775-19377A55A71D}|Businness\\Businness.csproj|c:\\users\\onur\\desktop\\musicplatform\\businness\\services\\musicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBB3BB7-24E4-406F-8775-19377A55A71D}|Businness\\Businness.csproj|solutionrelative:businness\\services\\musicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\Entities\\Music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Entities\\Music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EBB3BB7-24E4-406F-8775-19377A55A71D}|Businness\\Businness.csproj|c:\\users\\onur\\desktop\\musicplatform\\businness\\services\\musicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBB3BB7-24E4-406F-8775-19377A55A71D}|Businness\\Businness.csproj|solutionrelative:businness\\services\\musicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\Entities\\Bases\\Record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Entities\\Bases\\Record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EBB3BB7-24E4-406F-8775-19377A55A71D}|Businness\\Businness.csproj|c:\\users\\onur\\desktop\\musicplatform\\businness\\models\\musicmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBB3BB7-24E4-406F-8775-19377A55A71D}|Businness\\Businness.csproj|solutionrelative:businness\\models\\musicmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\Contexts\\Db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Contexts\\Db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|c:\\users\\onur\\desktop\\musicplatform\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|c:\\users\\onur\\desktop\\musicplatform\\mvc\\views\\musics\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\musics\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450E783A-4CAF-48B2-AB38-2AACB64E262B}|DataAccess\\DataAccess.csproj|c:\\users\\onur\\desktop\\musicplatform\\dataaccess\\entities\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450E783A-4CAF-48B2-AB38-2AACB64E262B}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|c:\\users\\onur\\desktop\\musicplatform\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|c:\\users\\onur\\desktop\\musicplatform\\mvc\\views\\musician\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\musician\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|c:\\users\\onur\\desktop\\musicplatform\\mvc\\views\\musician\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\musician\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|c:\\users\\onur\\desktop\\musicplatform\\mvc\\views\\musician\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\musician\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|c:\\users\\onur\\desktop\\musicplatform\\mvc\\controllers\\musiciancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC5298F-BE89-43A3-BC3D-3B053CA20DE6}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\musiciancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,92 +71,183 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "MVC\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "MVC\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T12:11:10.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T12:11:05.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Musician.cs",
-              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\Entities\\Musician.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Entities\\Musician.cs",
-              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\Entities\\Musician.cs",
-              "RelativeToolTip": "DataAccess\\Entities\\Musician.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T12:10:36.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Record.cs",
-              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\Entities\\Bases\\Record.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Entities\\Bases\\Record.cs",
-              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\Entities\\Bases\\Record.cs",
-              "RelativeToolTip": "DataAccess\\Entities\\Bases\\Record.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T12:10:25.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Music.cs",
-              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\Entities\\Music.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Entities\\Music.cs",
-              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\Entities\\Music.cs",
-              "RelativeToolTip": "DataAccess\\Entities\\Music.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T12:10:04.629Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Views\\Musics\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Musics\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Views\\Musics\\Edit.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Musics\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T16:29:55.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Db.cs",
-              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\Contexts\\Db.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Contexts\\Db.cs",
-              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\Contexts\\Db.cs",
-              "RelativeToolTip": "DataAccess\\Contexts\\Db.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T12:09:47.704Z",
+              "WhenOpened": "2024-05-24T16:09:14.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DataAccess.csproj",
-              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\DataAccess.csproj",
-              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
-              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\DataAccess.csproj",
-              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-29T12:09:38.514Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Views\\Musics\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Musics\\Index.cshtml",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Views\\Musics\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Musics\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T16:04:27.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Views\\Musics\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Musics\\Create.cshtml",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Views\\Musics\\Create.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Musics\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T16:01:35.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Music.cs",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\Entities\\Music.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\Music.cs",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\Entities\\Music.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\Music.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:59:58.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T15:58:30.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicsController.cs",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Controllers\\MusicsController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\MusicsController.cs",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Controllers\\MusicsController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\MusicsController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAiwG4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:50:16.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MusicService.cs",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\Businness\\Services\\MusicService.cs",
+              "RelativeDocumentMoniker": "Businness\\Services\\MusicService.cs",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\Businness\\Services\\MusicService.cs",
+              "RelativeToolTip": "Businness\\Services\\MusicService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAowDkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:46:00.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MusicModel.cs",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\Businness\\Models\\MusicModel.cs",
+              "RelativeDocumentMoniker": "Businness\\Models\\MusicModel.cs",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\Businness\\Models\\MusicModel.cs",
+              "RelativeToolTip": "Businness\\Models\\MusicModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:45:53.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Views\\Musician\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Musician\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Views\\Musician\\Edit.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Musician\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T15:44:44.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Views\\Musician\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Musician\\Details.cshtml",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Views\\Musician\\Details.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Musician\\Details.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T15:44:40.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Views\\Musician\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Musician\\Create.cshtml",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Views\\Musician\\Create.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Musician\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T15:44:32.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MusicianController.cs",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Controllers\\MusicianController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\MusicianController.cs",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\MVC\\Controllers\\MusicianController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\MusicianController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwEQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:42:04.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicianService.cs",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\MusicPlatform\\Businness\\Services\\MusicianService.cs",
+              "RelativeDocumentMoniker": "Businness\\Services\\MusicianService.cs",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\MusicPlatform\\Businness\\Services\\MusicianService.cs",
+              "RelativeToolTip": "Businness\\Services\\MusicianService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswCMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:35:58.723Z",
               "EditorCaption": ""
             }
           ]

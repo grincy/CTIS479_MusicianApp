@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\onur\\Desktop\\BookReview-master\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\onur\\Desktop\\BookReview-master\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\onur\\Desktop\\BookReview-master\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\onur\\Desktop\\BookReview-master\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\onur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\onur\\Desktop\\BookReview-master\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\onur\\Desktop\\MusicPlatform\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\onur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

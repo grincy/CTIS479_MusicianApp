@@ -1,17 +1,21 @@
-#nullable disable // tüm entity ve modellerde yazılmalı
+ï»¿#nullable disable // tÃ¼m entity ve modellerde yazÃ½lmalÃ½
 
-using DataAccess.Entities.Bases
+using DataAccess.Entities.Bases;
 
 namespace DataAccess.Entities
 {
     public class Music : Record
     {
-        public string Title { get; set; } = null!
-        
+        public string Title { get; set; } = null!;
+
+
         public DateTime? PublishedYear { get; set; }
+  
         public decimal Price { get; set; }
-        // one to many kısmı burası one kısmı
+        // one to many kÃ½smÃ½ burasÃ½ one kÃ½smÃ½
         public int MusicianId { get; set; }
         public Musician Musician { get; set; }
+
+        public List<AlbumsMusic> AlbumsMusics { get; set; }
     }
 }
